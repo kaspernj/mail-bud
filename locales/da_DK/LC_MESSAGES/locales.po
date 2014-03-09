@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: knjMailChecker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-16 10:55+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kasper Johansen <kaspernj@gmail.com>\n"
+"Language-Team: Kasper Johansen <kaspernj@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: gtext\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-SearchPath-0: windows\n"
+"X-Poedit-SearchPath-1: gui\n"
+"X-Poedit-SearchPath-2: .\n"
+
+#: windows/win_accounts.rb:10
+msgid "ID"
+msgstr "ID"
+
+#: windows/win_accounts.rb:10
+msgid "Host"
+msgstr "Host"
+
+#: windows/win_main.rb:20
+msgid "Accounts"
+msgstr "Konti"
+
+#: windows/win_main.rb:24
+msgid "Options"
+msgstr "Indstillinger"
+
+#: windows/win_main.rb:28
+msgid "Quit"
+msgstr "Afslut"
+
+#: windows/win_main.rb:35
+msgid "Stop"
+msgstr "Stop"
+
+#: windows/win_main.rb:40
+msgid "Start"
+msgstr "Start"
+
+#: windows/win_main.rb:223
+msgid "New emails"
+msgstr "Nye emails"
+
+#: windows/win_main.rb:233
+msgid "No unread emails."
+msgstr "Ingen ulæste emails."
+
+#: gui/win_accounts.ui:49
+msgid "<b>Accounts</b>"
+msgstr "<b>Konti</b>"
+
+#: gui/win_accounts.ui:88
+msgid "Protocol"
+msgstr "Protokol"
+
+#: gui/win_accounts.ui:106
+msgid "SSL"
+msgstr "SSL"
+
+#: gui/win_accounts.ui:136
+msgid "Port"
+msgstr "Port"
+
+#: gui/win_accounts.ui:149
+msgid "Username"
+msgstr "Brugernavn"
+
+#: gui/win_accounts.ui:162
+msgid "Password"
+msgstr "Adgangskode"
+
+#: gui/win_accounts.ui:227
+msgid "Folders"
+msgstr "Foldere"
+
+#: gui/win_accounts.ui:301
+#: gui/win_options.ui:267
+msgid "<b>Options</b>"
+msgstr "<b>Indstillinger</b>"
+
+#: gui/win_options.ui:38
+msgid "Time between checks (secs)"
+msgstr "Tid mellem checks (sek)"
+
+#: gui/win_options.ui:47
+msgid "Automatically start on startup"
+msgstr "Automatisk start ved startup"
+
+#: gui/win_options.ui:76
+msgid "Execute on statusicon-click"
+msgstr "Kør ved klik på statusikon"
+
+#: gui/win_options.ui:103
+msgid "Icon no email"
+msgstr "Ikon ingen email"
+
+#: gui/win_options.ui:116
+msgid "Icon unread email"
+msgstr "Ikon ulæste emails"
+
+#: gui/win_options.ui:129
+#: gui/win_options.ui:143
+msgid "Choose a file"
+msgstr "Vælg en fil"
+
+#: gui/win_options.ui:191
+msgid "Run command on new email"
+msgstr "Kør kommando ved ny email"
+

@@ -3,6 +3,13 @@ source "http://rubygems.org"
 # Example:
 #   gem "activesupport", ">= 2.3.5"
 
+gem "knjrbfw"
+gem "baza"
+gem "gtk2"
+gem "string-cases"
+gem "sqlite3"
+gem "gettext"
+
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
 group :development do
